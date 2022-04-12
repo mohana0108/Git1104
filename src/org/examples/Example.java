@@ -19,6 +19,8 @@ public class Example {
 		Example s = new Example();
 		s.voteex();
 		
+		System.out.println("Voter eligible to vote");
+		
 	}
 
 	
